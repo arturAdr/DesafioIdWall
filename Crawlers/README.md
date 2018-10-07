@@ -55,7 +55,7 @@
     - python crawlers.py 
     - python crawlers.py --subrredits dogs programming --min-score 100 --pages 10 --nada-para-fazer --entity +551199009900
 
-    Ao executar sera necessario temos que digitar o número do usuário
+    Ao executar sera necessário digitar o número do usuário
     
 imagem: https://github.com/arturAdr/DesafioIdWall/tree/master/Crawlers/exemplo-1.png
 
