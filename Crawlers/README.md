@@ -55,4 +55,11 @@
     - python crawlers.py 
     - python crawlers.py --subrredits dogs programming --min-score 100 --pages 10 --nada-para-fazer --entity +551199009900
 
-    ![Exemplo-1](https://github.com/arturAdr/DesafioIdWall/blob/master/Crawlers/exemplo-1.png)
+    Ao executar sera necessario temos que digitar o número do usuário
+    
+imagem: https://github.com/arturAdr/DesafioIdWall/tree/master/Crawlers/exemplo-1.png
+
+    Depois sera enviado um código ao seu telegram e temos que digitar ele
+
+imagem: https://github.com/arturAdr/DesafioIdWall/tree/master/Crawlers/exemplo-2.png
+
