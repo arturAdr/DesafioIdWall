@@ -55,4 +55,4 @@
     - python crawlers.py 
     - python crawlers.py --subrredits dogs programming --min-score 100 --pages 10 --nada-para-fazer --entity +551199009900
 
-    ![Exemplo-1](exemplo-1.png)
+    ![Exemplo-1](https://github.com/arturAdr/DesafioIdWall/blob/master/Crawlers/exemplo-1.png)
